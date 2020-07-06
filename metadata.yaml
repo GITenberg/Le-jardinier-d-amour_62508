@@ -1,5 +1,5 @@
 _repo: Le-jardinier-d-amour_62508
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Mirabaud-Thorens, H. (Henriette)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1943
     gutenberg_agent_id: '51973'
     url: http://www.gutenberg.org/2009/agents/51973
+covers:
+- cover_type: archival
+  image_path: 62508-h/images/cover.jpg
 creator:
   author:
     agent_name: Tagore, Rabindranath
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/942
     wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
 description: 'Translation of: Malini.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62508#Le-jardinier-d-amour
 gutenberg_bookshelf:
 - FR Poésie
 - FR Nouveautés
